@@ -13,6 +13,7 @@ public class LambdaAuthorizer implements RequestHandler<APIGatewayProxyRequestEv
     @Override
     public APIGatewayProxyResponseEvent handleRequest(final APIGatewayProxyRequestEvent input, final Context context) {
 
+        
         return new APIGatewayProxyResponseEvent();
     }
 
