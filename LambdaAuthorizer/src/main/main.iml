@@ -13,5 +13,6 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.12.5" level="project" />
     <orderEntry type="library" name="Maven: com.auth0:java-jwt:4.4.0" level="project" />
     <orderEntry type="library" name="Maven: com.auth0:jwks-rsa:0.22.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:cognitoidentityprovider:2.17.78" level="project" />
   </component>
 </module>
