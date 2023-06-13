@@ -16,5 +16,6 @@
     <orderEntry type="library" name="Maven: software.amazon.awssdk:cognitoidentityprovider:2.17.78" level="project" />
     <orderEntry type="library" name="Maven: software.amazon.awssdk:regions:2.17.78" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.9" level="project" />
+    <orderEntry type="library" name="Maven: com.amazonaws:aws-java-sdk-core:1.12.484" level="project" />
   </component>
 </module>
